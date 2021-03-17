@@ -1,4 +1,9 @@
 coucou
+<<<<<<< HEAD
 everest
 huawei
 algo
+=======
+j'aime les bananes
+yes
+>>>>>>> 500c3ccc874889e4ae19716b59b0d4234645ac28
